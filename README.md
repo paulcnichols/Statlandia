@@ -7,4 +7,5 @@ The data required for both these graphs can be found using the API locations /da
 
 The final result should be a compressed directory that, when unpacked, can be viewed using the provided node.js script. Have fun!
 
+![](public/design.png)
 
